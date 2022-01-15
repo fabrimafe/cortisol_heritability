@@ -2,7 +2,7 @@
 
 R code for the estimate of heritability and maternal effects on cortisol levels in chimpanzees, used in:
 
-** Non-genetic maternal effects shape individual differences in cortisol phenotypes in wild chimpanzees **
+### Non-genetic maternal effects shape individual differences in cortisol phenotypes in wild chimpanzees
 
 Tkaczynski et al.,2021
 
